@@ -1,5 +1,5 @@
 ### Hi there 👋 Destiana Ayu!
-
+Having knowledge basic programming Java, Manual Testing, Automation Testing, Performance Testing using jMeter.
 <!--
 **destnayu/destnayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
