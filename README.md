@@ -1,5 +1,7 @@
-### Hi there 👋 Destiana Ayu!
+### Hi there 👋, I'm Destiana Ayu!
 Having knowledge basic programming Java, Manual Testing, Automation Testing, Performance Testing using jMeter.
+### Tools:
+<img src=”https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg”>
 <!--
 **destnayu/destnayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
