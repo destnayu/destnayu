@@ -1,14 +1,3 @@
-### Hi there 👋, I'm Destiana Ayu!
-Having knowledge basic programming Java, Manual Testing, Automation Testing, Performance Testing using jMeter.
-### Tools:
-<p>
-  <img src="https://img.shields.io/badge/-BlueJ-lightgrey" />
-  <img src="https://img.shields.io/badge/-Netbeans%20IDE-lightgrey" />
-  <img src="https://img.shields.io/badge/-Intellij%20IDEA-lightgrey" />
-  <img src="https://img.shields.io/badge/-Postman-lightgrey" />
-  <img src="https://img.shields.io/badge/-jMeter-lightgrey" />
-  <img src="https://img.shields.io/badge/-Appium-lightgrey" />
-</p>  
 <!--
 **destnayu/destnayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Destiana Ayu!
+Having knowledge basic programming Java, Manual Testing, Automation Testing, Performance Testing using jMeter.
+### Tools:
+<p>
+  <img src="https://img.shields.io/badge/-BlueJ-lightgrey" />
+  <img src="https://img.shields.io/badge/-Netbeans%20IDE-lightgrey" />
+  <img src="https://img.shields.io/badge/-Intellij%20IDEA-lightgrey" />
+  <img src="https://img.shields.io/badge/-Postman-lightgrey" />
+  <img src="https://img.shields.io/badge/-jMeter-lightgrey" />
+  <img src="https://img.shields.io/badge/-Appium-lightgrey" />
+</p>  
