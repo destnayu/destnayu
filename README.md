@@ -25,7 +25,10 @@ Having knowledge basic programming Java, Manual Testing, Automation Testing, Per
   <img src="https://img.shields.io/badge/-Appium-lightgrey" />
 </p>  
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=destnayu&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destnayu&layout=compact" height=180 />
+## Stats
+<p align="left">
+<a href="https://github.com/destnayu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
+</a>
 </p>
