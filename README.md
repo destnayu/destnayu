@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Destiana Ayu!
-Having knowledge basic programming Java, Manual Testing, Automation Testing
+Having knowledge basic programming Java, WEB Automation Testing, API Automation Testing and Mobile Automation Testing
 ### Tools:
 <p>
   <img src="https://img.shields.io/badge/-BlueJ-lightgrey" />
