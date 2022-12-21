@@ -26,7 +26,7 @@ Having knowledge basic programming Java, WEB Automation Testing, API Automation 
 </p>  
 
 ## Stats:
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
 </p>
