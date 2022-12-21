@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Destiana Ayu!
 Having knowledge basic programming Java, WEB Automation Testing, API Automation Testing and Mobile Automation Testing
-### Tools:
+### 🛠️ Tools:
 <p>
   <img src="https://img.shields.io/badge/-BlueJ-lightgrey" />
   <img src="https://img.shields.io/badge/-Netbeans%20IDE-lightgrey" />
@@ -25,8 +25,8 @@ Having knowledge basic programming Java, WEB Automation Testing, API Automation 
   <img src="https://img.shields.io/badge/-Appium-lightgrey" />
 </p>  
 
-## Stats:
-<p align = "center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
+## 📈 Stats:
+<p align = "left">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
 </p>
