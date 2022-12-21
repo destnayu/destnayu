@@ -27,6 +27,6 @@ Having knowledge basic programming Java, WEB Automation Testing, API Automation 
 
 ## 📈 Stats:
 <p align = "left">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
 </p>
