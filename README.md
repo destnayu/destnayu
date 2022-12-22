@@ -38,3 +38,6 @@ I am following an Immersive Program QA Engineer in Alterra Academy. I'm studying
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destnayu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destnayu&layout=compact&langs_count=8&theme=transparent"/>
 </p>
+
+## 📫 Lets's Connect with me!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/destiana-ayu-aulia-putri/)
