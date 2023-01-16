@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Destiana Ayu!
-I am following an Immersive Program QA Engineer in Alterra Academy. I'm studying Quality Engineering to improve my skills in data processing and improve software performance. I've developed skills in Testing Documentation, WEB Automation Testing, API Automation Testing, Mobile Automation Testing
+I am following an Immersive Program QA Engineer in Alterra Academy. I'm studying Quality Engineering to improve my skills in data processing and improve software performance. I've developed skills in Testing Documentation, WEB Automation Testing, API Automation Testing, Mobile Automation Testing.
 
 ### 🛠️ Language and Tools:
 <p>
